@@ -6,8 +6,7 @@ Extension of boundary loss on medical segmentation task, based on the paper: [Bo
 ## Results
 <img src="imgs/predictions.png" width="850">
 
-
-<img src="image1.png" width="425"/> <img src="image2.png" width="425"/> 
+<img src="imgs/table_unet.png" width="425"/> <img src="imgs/table_att_unet.png.png" width="425"/> 
 
 ### Authors 
 
