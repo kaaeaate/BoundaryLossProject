@@ -3,6 +3,14 @@ Extension of boundary loss on medical segmentation task, based on the paper: [Bo
 
 'DL_Project.ipynb' - the main file for running models
 
+## Results
+<img src="imgs/predictions.png" width="800">
+
+<p float="left">
+  <img src="imgs/table_unet.png" width="50%" />
+  <img src="imgs/table_att_unet.png" width="50%" />
+</p>
+
 ### Authors 
 
 - Albina Klepach
