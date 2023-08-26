@@ -4,10 +4,10 @@ Extension of boundary loss on medical segmentation task, based on the paper: [Bo
 'DL_Project.ipynb' - the main file for running models
 
 ## Results
-<img src="imgs/predictions.png">
+<img src="imgs/predictions.png" width="850">
 
 
-![](imgs/table_unet.png) ![](imgs/table_unet.png)
+<img src="image1.png" width="425"/> <img src="image2.png" width="425"/> 
 
 ### Authors 
 
